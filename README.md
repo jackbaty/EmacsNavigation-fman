@@ -1,5 +1,3 @@
-
-
 ## What is it?
 
 EmacsNavigation is a plugin for [fman](https://fman.io/), my favorite file manager.
