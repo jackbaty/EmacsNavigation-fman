@@ -1,18 +1,16 @@
-EmacsNavigation Plugin for fman
+
 
 ## What is it?
 
-[fman](https://fman.io/) is my favorite filemanager.
-
-I wanted the default keybindings to be more Emacs-like so I created this plugin.
+EmacsNavigation is a Plugin for [fman](https://fman.io/), my favorite filemanager.
 
 ## What does it do?
 
-Maps basic navigation commands that will be familiar to Emacs users.
+I wanted fman's keybindings to be more Emacs-like, so I created this plugin.
 
-`Ctrl+n` maps to MoveCursorUp and `Ctrl+p` maps to MoveCursorDown.
+It adds Emacs-like keybindings for the basic navigation commands.
+
+- `Ctrl+n` maps to MoveCursorUp
+- `Ctrl+p` maps to MoveCursorDown
 
 I just copied the [VimNavigation](https://github.com/raguay/VimNavigation/blob/master/vimnavigation/__init__.py) plugin and modified it to suit.
-
-
-
